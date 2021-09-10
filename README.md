@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AdrianMonedero
+- 👀 I’m interested in cryptography
+- 🌱 I’m currently learning haskell
+- 💞️ I’m looking to collaborate on plutus pioneer programm.
